@@ -20,7 +20,7 @@
 | **Authentication**   | JWT, Spring Security, OAuth2.0                                           |
 | **Development Tools**| Lombok                                                   |
 | **API Documentation**| Swagger UI (SpringDoc)                                                   |
-| **Storage**          | AWS S3                                                                   |
+| **Storage**          | NCP Object Storage                                                                   |
 | **Infrastructure**   | Terraform, NCP Server                               |
 | **Build Tools**      | Gradle    |
 
