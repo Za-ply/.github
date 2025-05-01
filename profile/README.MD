@@ -3,10 +3,11 @@
 <br></br>
 
 ## 👬 Member
-|      정성호     |         염지은         |                                                                                                   
-| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img src="https://avatars.githubusercontent.com/SeongHo5356?v=4" width=90px alt="정성호"/>       |   <img src="https://avatars.githubusercontent.com/yumzen?v=4" width=90px alt="염지은"/>                       |
-|   [@SeongHo5356](https://github.com/SeongHo5356)   |    [@yumzen](https://github.com/yumzen)  | 
+|      정성호     |         염지은         |        홍길동        |        김영희        |
+|:---------------:|:----------------------:|:-------------------:|:-------------------:|
+| <img src="https://avatars.githubusercontent.com/SeongHo5356?v=4" width="90px" alt="정성호"/> | <img src="https://avatars.githubusercontent.com/yumzen?v=4" width="90px" alt="염지은"/> | <img src="https://avatars.githubusercontent.com/username3?v=4" width="90px" alt="홍길동"/> | <img src="https://avatars.githubusercontent.com/username4?v=4" width="90px" alt="김영희"/> |
+| [@SeongHo5356](https://github.com/SeongHo5356) | [@yumzen](https://github.com/yumzen) | [@username3](https://github.com/username3) | [@username4](https://github.com/username4) |
+
 
 <br></br>
 
